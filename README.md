@@ -18,6 +18,8 @@ skin, and different properties that will be automaticly load at the next launch.
 The last IP that you joined, is saved too :)
 You'll probably need to Press Enter twice to join a game (not everyone is perfect).
 
+took 32 hours to make.
+
 video at : https://youtu.be/aSG1h4JW9yk
 
 Léandre Blanchard
